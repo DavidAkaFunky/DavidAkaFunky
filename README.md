@@ -11,8 +11,6 @@ Hey! I'm David and I'm a 19-year-old Computer Science and Engineering BSc studen
 
 I'm mainly interested in the areas of cybersecurity and visualisation, along with video and image editing.
 
-Check out my pinned repos! 👇 Those are my favourite projects/activities I worked on.
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -21,3 +19,5 @@ Check out my pinned repos! 👇 Those are my favourite projects/activities I wor
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>  
 </p>
+
+<h2 align="left"> Check out my pinned repos! 👇 Those are my favourite projects/activities I worked on. </h2>
