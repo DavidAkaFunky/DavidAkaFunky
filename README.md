@@ -11,6 +11,8 @@ Hey! I'm David and I'm a 19-year-old Computer Science and Engineering BSc studen
 
 I'm mainly interested in the areas of cybersecurity and visualisation, along with video and image editing.
 
+Check out my pinned repos! 👇 Those are my favourite projects/activities I worked on.
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
