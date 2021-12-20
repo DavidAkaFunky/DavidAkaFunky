@@ -4,7 +4,7 @@
 
 <h1 align="center">Wow, you've found my page! 👋 </h1>
 <div align="center">
-  <img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535" height="100px"/>
+  <img src="https://github.com/FunkyCracky/FunkyCracky/blob/main/hello-there-general-kenobi.gif" height="100px"/>
 </div>
 
 Hey! I'm David and I'm a 19-year-old Computer Science and Engineering BSc student at Instituto Superior Técnico, currently in my third year.
