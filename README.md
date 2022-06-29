@@ -7,7 +7,7 @@
   <img src="https://github.com/FunkyCracky/FunkyCracky/blob/main/hello-there-general-kenobi.gif" height="100px"/>
 </div>
 
-Hey! I'm David and I'm a 19-year-old Computer Science and Engineering BSc student at Instituto Superior Técnico, currently in my third year.
+Hey! I'm David and I'm a 20-year-old Computer Science and Engineering BSc student at Instituto Superior Técnico, currently in my third year.
 
 I'm mainly interested in the areas of cybersecurity and visualisation, along with video and image editing.
 
