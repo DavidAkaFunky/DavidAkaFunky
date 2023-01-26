@@ -30,6 +30,7 @@ I'm mainly interested in the areas of cybersecurity, machine learning and visual
   <a href="[https://www.cprogramming.com/](https://spring.io/projects/spring-boot)" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a> 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/></a>
 </p>
 
 <h2 align="left">Tools:</h2>
