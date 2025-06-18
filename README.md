@@ -7,7 +7,7 @@
   <img src="https://github.com/FunkyCracky/FunkyCracky/blob/main/hello-there-general-kenobi.gif" height="100px"/>
 </div>
 
-Hey! I'm David and I'm a 22-year-old Software Engineer @ Bank of Portugal!
+Hey! I'm David and I'm a 23-year-old Software Engineer @ Mastercard!
 
 I'm mainly interested in the areas of cybersecurity, machine learning and visualisation, along with video and image editing.
 
